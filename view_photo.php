@@ -1,4 +1,4 @@
-<?phpphp 
+<?php
 require_once("inc/incfiles/header1.php");
 
 $user = $_SESSION["user_login"];
